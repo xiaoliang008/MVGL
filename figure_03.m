@@ -3,9 +3,8 @@ addpath('./tools')
 load TC_DS
 n = 100;
 % X = twomoon_gen(n,n,0);
-% [X1,la] = threecircles(n,0.14);
+% [X1,gt] = threecircles(n,0.14);
 % X2 = threecircles(n,0.16);
-% gt = [ones(n,1);2*ones(n,1)]; 
 c = 3;
 Kini = 15;
 KCAN1 = 5;
