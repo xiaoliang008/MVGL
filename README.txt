@@ -8,7 +8,7 @@ We appreciate it if you cite the following paper:
   volume =  {PP},
   number =  {99},
   pages =   {1-9},
-  doi =     {10.1109/TCYB.2017.2751646},
+  doi =     {https://doi.org/10.1109/TCYB.2017.2751646},
   issn =    {2168-2267}
 }
 
