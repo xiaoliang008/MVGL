@@ -1,6 +1,6 @@
 We appreciate it if you cite the following paper:
 
-@Article{8052206,
+@Article{tcybMVGL8052206,
   author =  {K. Zhan and C. Zhang and J. Guan and J. Wang},
   title =   {Graph Learning for Multiview Clustering},
   journal = {IEEE Transactions on Cybernetics},
