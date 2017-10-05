@@ -4,7 +4,7 @@
 % currentFolder = pwd;
 % addpath(genpath(currentFolder));
 % addpath('./MV_datasets');
-% addpath('./tools')
+addpath('./tools')
 % load('Number123456.mat');	islocal_1 = 0;islocal_2 = 0; k = 15;	%fianl
 % load('NH_p4660.mat');     islocal_1 = 1;islocal_2 = 1; k = 50;	%final
 % load('C101_p1474.mat');   islocal_1 = 1;islocal_2 = 1; k = 40;	%final
