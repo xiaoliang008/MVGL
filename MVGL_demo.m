@@ -47,13 +47,3 @@ while abs((J_new - J_old)/J_old) > EPS
     J_new =  sum(sum((A - S0).^2));
     O(iter) = J_new;
 end
-% figure,imshow(S,[]),colorbar,colormap jet
-% figure,plot(O)
-% 
-% result_CLR0 = ClusteringMeasure(y0, y);
-% [F,P,R] = compute_f(y0,y);
-% display([P,R F]);
-% acc = result_CLR0(1);
-% nmi = result_CLR0(2);
-% pu  = result_CLR0(3);
-% AR = RandIndex(y0,y);
